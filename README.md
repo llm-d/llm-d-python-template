@@ -5,6 +5,7 @@
 
 [![CI](https://github.com/llm-d/{{PROJECT_NAME}}/actions/workflows/ci-pr-checks.yaml/badge.svg)](https://github.com/llm-d/{{PROJECT_NAME}}/actions/workflows/ci-pr-checks.yaml)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-python-template.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-python-template?ref=badge_shield)
 
 > **One-line description of what this project does.**
 
@@ -75,3 +76,6 @@ To report a security vulnerability, please see [SECURITY.md](SECURITY.md).
 ## License
 
 This project is licensed under the Apache License 2.0 - see [LICENSE](LICENSE) for details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-python-template.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fllm-d%2Fllm-d-python-template?ref=badge_large)
